@@ -95,32 +95,6 @@ product_sales_analysis.ipynb – full analysis notebook
 
 presentation.pdf – executive summary slides (optional for GitHub)
 
-## 🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/<yourusername>/product-sales-analysis.git
-cd product-sales-analysis
-
-
-Create a virtual environment (recommended):
-
-python -m venv venv
-source venv/bin/activate    # or venv\Scripts\activate on Windows
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open Jupyter Notebook:
-
-jupyter notebook
-
-
-Run the notebook product_sales_analysis.ipynb.
-
 ## 📚 Skills Demonstrated
 
 Data Validation & Cleaning — handling missing values, outliers, and inconsistencies
