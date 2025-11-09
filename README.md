@@ -105,6 +105,9 @@ Statistical Thinking — using correlation and aggregation to support decisions
 
 Data Storytelling — framing insights for non-technical audiences
 
+## Check my Data Analyst certificate :
+https://www.datacamp.com/certificate/DA0026698390006
+
 ## 🏁 Conclusion
 
 This analysis demonstrates how data-driven insights can guide business strategy by revealing which sales approaches generate the best outcomes.
